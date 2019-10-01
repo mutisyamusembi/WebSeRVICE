@@ -7,7 +7,7 @@
   );
   
   
-  foreach($books as book=>$price)
+  foreach($books as $book=>$price)
   {
 		if($book==$find)
 		{
