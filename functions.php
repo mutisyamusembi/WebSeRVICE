@@ -1,6 +1,6 @@
 <?php
  function get_price($find){
-  $boooks=array(
+  $books=array(
   "c++"=>100,
   "php"=>350,
   "python"=>700,
